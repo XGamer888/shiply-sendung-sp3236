@@ -1,0 +1,47 @@
+{
+  "SE481528021DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Hubert, Pflegler 4, 79576 Weil am Rhein, Deutschland",
+    "receiver": "Christian Mischok, Chamissostraße 26, 13587 Bezirk Spandau, Deutschland",
+    "price": "3.000,00 €",
+    "description": "Hersteller: KTM<br>Typ: 690 Duke<br>Fahrgestelnummer: VBKLET40XEM768643<br>Erstzulassung: 08/2014<br>KM laut Vorbesitzer: 6.066 km<br>Leistung: 54 kW (73 PS)<br>Hubraum: 690 cm³<br>Farbe: Orange<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Christian Mischok<br>Chamissostraße 26<br>13587 Bezirk Spandau<br>Deutschland<br>Telefon: +49 159 01178340",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "14.08.2026",
+    "deliveryDate": "19.08.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
